@@ -16,13 +16,13 @@
 
 - 🌱 I’m currently learning **MongoDB, NodeJS**
 
-- 👨‍💻 Visit my portfolio [https://port-folio-naveenakash-ks-projects.vercel.app/](https://port-folio-naveenakash-ks-projects.vercel.app/)
+- 👨‍💻 Visit my portfolio [here](https://bit.ly/naveenakash-portfolio)
 
 - 💬 Ask me about **Flutter / React**
 
 - 📫 How to reach me **naveen.akash0904@gmail.com**
 
-- 📄 Know about my experiences [#](#)
+- 📄 Know about my experiences
 
 <h3 align="left">Connect with me:</h3>
 <table>
