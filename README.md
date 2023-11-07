@@ -128,7 +128,7 @@
 </table>
 
 
-<h3 align="left">Analytics:</h3>
+<h3 align="left">Stats:</h3>
 <table width="100%">
   <tbody>
     <tr>
