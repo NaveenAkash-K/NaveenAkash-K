@@ -12,7 +12,7 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on [WalletSync](https://github.com/NaveenAkash-K/WalletSync-Shared_Money_Manager)
+- 🔭 I’m currently working on [Hostel Management System](https://github.com/NaveenAkash-K/hostel-pass-management)
 
 - 🌱 I’m currently learning **MongoDB, NodeJS**
 
