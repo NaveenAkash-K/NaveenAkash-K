@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/NaveenAkash-K/NaveenAkash-K/main/banner.jpg" width=100%></img>
 <h1 align="center">Hi 👋, I'm Naveen Akash</h1>
-<h3 align="center">A passionate Flutter / React / UI Developer</h3> 
+<h3 align="center">A passionate Flutter / MERN Stack / UI Developer</h3> 
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=naveenakash-k&label=Profile%20views&color=0e75b6&style=flat" alt="naveenakash-k" />
@@ -14,11 +14,9 @@
 
 - 🔭 I’m currently working on [Hostel Management System](https://github.com/NaveenAkash-K/hostel-pass-management)
 
-- 🌱 I’m currently learning **MongoDB, NodeJS**
-
 - 👨‍💻 Visit my portfolio [here](https://bit.ly/naveenakash-portfolio)
 
-- 💬 Ask me about **Flutter / React**
+- 💬 Ask me about **Flutter / MERN Stack**
 
 - 📫 How to reach me **naveen.akash0904@gmail.com**
 
